@@ -13,8 +13,12 @@ I use a seperate Key for AutoElevate ticket processing so that way if this scrip
 
 You will need to fill in the following items
 
+Obtain from Autoelevate Admin Page
 $LICENSE_KEY = "AutoElevate LicenseKey"
 
+Build in the Autotask Users/API Section
 $API_USER_NAME = 'Autotask API Username'
+
 $API_SECRET = 'Autotask API Password'
+
 $API_INTEGRATION_CODE = 'Autotask Intigration Code' #Datto Tracking Identifier
